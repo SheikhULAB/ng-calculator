@@ -1,3 +1,5 @@
+live site:  https://steady-medovik-6cd570.netlify.app/
+
 # NgCalculator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
